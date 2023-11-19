@@ -1,4 +1,4 @@
-package com.example.calendar
+package com.example.todocalendarapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,7 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.example.calendar.ui.theme.CalendarTheme
+import com.example.todocalendarapp.ui.theme.CalendarTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

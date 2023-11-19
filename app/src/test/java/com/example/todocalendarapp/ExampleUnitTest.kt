@@ -1,4 +1,4 @@
-package com.example.calendar
+package com.example.todocalendarapp
 
 import org.junit.Test
 

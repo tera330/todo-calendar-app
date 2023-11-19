@@ -1,4 +1,4 @@
-package com.example.calendar.ui.theme.screenparts.schedule
+package com.example.todocalendarapp.ui.theme.screenparts.schedule
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -18,7 +18,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.calendar.ui.theme.TaskViewModel
+import com.example.todocalendarapp.ui.theme.TaskViewModel
 import java.time.LocalDate
 
 @Composable

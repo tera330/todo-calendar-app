@@ -1,4 +1,4 @@
-package com.example.calendar
+package com.example.todocalendarapp
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -12,9 +12,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.calendar.ui.theme.CalendarViewModel
-import com.example.calendar.ui.theme.screenparts.Calendar.DayOfWeek
-import com.example.calendar.ui.theme.screenparts.Calendar.PagerCalendar
+import com.example.todocalendarapp.ui.theme.CalendarViewModel
+import com.example.todocalendarapp.ui.theme.screenparts.Calendar.DayOfWeek
+import com.example.todocalendarapp.ui.theme.screenparts.Calendar.PagerCalendar
 
 @Composable
 fun CalendarScreen(

@@ -1,4 +1,4 @@
-package com.example.calendar.ui.theme.screenparts.Calendar
+package com.example.todocalendarapp.ui.theme.screenparts.Calendar
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row
@@ -30,4 +30,3 @@ fun DayOfWeek() {
 fun DayOfWeekPreview() {
     DayOfWeek()
 }
-

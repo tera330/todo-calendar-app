@@ -1,4 +1,4 @@
-package com.example.calendar.ui.theme
+package com.example.todocalendarapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

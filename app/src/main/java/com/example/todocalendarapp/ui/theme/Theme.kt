@@ -1,4 +1,4 @@
-package com.example.calendar.ui.theme
+package com.example.todocalendarapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
